@@ -20,7 +20,7 @@
     <artifactId>uk-threerebus</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
-    <description>Chaneel AEM Archtype 13</description>
+    <description>Chaneel AEM Archtype 13 uber jar 6.3.0</description>
 
     <modules>
         <module>core</module>

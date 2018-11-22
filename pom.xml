@@ -20,7 +20,7 @@
     <artifactId>uk-threerebus</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
-    <description>ChaneelAEM</description>
+    <description>ChaneelAEM Archtype 13</description>
 
     <modules>
         <module>core</module>
